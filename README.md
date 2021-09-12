@@ -22,7 +22,7 @@ enter the filtering parameters in the parameters.py file
 <br>
 excute the command in the terminal/cmd : scrapy crawl imdb -o name_of_the_file.csv
 <br>
-name_of_the_file is the file where you save the data
+name_of_the_file is the file where you want save the data
 <br>
 
 
