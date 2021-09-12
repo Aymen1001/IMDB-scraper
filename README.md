@@ -16,11 +16,13 @@ The scraper is built with SCRAPY and can collect the following fields:
 <br>
 To run the code you need to :
 <br>
-install scrapy : pip install scrapy
+install scrapy in the terminal/cmd: <h3>pip install scrapy</h3>
 <br>
 enter the filtering parameters in the parameters.py file
 <br>
-excute the command in the terminal/cmd : scrapy crawl imdb -o name_of_the_file.csv
+excute the command in the terminal/cmd : 
+<h3>cd scraper/imdb</h3>
+<h3>scrapy crawl imdb -o name_of_the_file.csv</h3>
 <br>
 name_of_the_file is the file where you want save the data
 <br>
