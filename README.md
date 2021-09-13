@@ -18,7 +18,7 @@ To run the code you need to :
 <br>
 install scrapy in the terminal/cmd: <h3>pip install scrapy</h3>
 <br>
-enter the filtering parameters in the parameters.py file
+enter the searching parameters in the parameters.py file
 <br>
 excute the command in the terminal/cmd : 
 <h3>cd scraper/imdb</h3>
